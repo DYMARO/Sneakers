@@ -1,0 +1,31 @@
+#fondo{
+    background-color: blanchedalmond;
+}
+#fondo2{
+    background-color: aliceblue;
+}
+#centro { 
+    width: 210px; 
+    margin: auto; 
+}
+#centro2 { 
+    width: 700px; 
+    margin: auto; 
+}
+
+#centro3 { 
+    width: 350px; 
+    margin: auto; 
+}
+
+#centro4 { 
+    width: 275px; 
+    margin: auto; 
+}
+
+.barra{
+        text-transform: uppercase;
+        padding: 25px;
+        margin-left: 250px;
+    }
+
