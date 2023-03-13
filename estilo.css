@@ -2,7 +2,7 @@
     background-color: blanchedalmond;
 }
 #fondo2{
-    background-color: aliceblue;
+    background-color: blanchedalmond;
 }
 #centro { 
     width: 210px; 
@@ -29,3 +29,7 @@
         margin-left: 250px;
     }
 
+.centrado{
+    display: flex;
+    margin: auto;
+}
